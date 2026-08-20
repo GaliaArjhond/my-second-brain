@@ -1,14 +1,13 @@
 ---
 type: project
-project: IntelliBreak
+project:
 status: active
 tags:
-  - intellibreak
-  - thesis
-  - flutter
+  - project
+startDate:
 ---
 
-# IntelliBreak
+# {{title}}
 
 ## Overview
 
@@ -31,3 +30,5 @@ tags:
 ## Current Problems
 
 ## Next Steps
+
+## Related Notes
