@@ -69,6 +69,11 @@ tags:
 
 - APA or institution-prescribed format
 
+## Related Project Elements
+- [[IntelliBreak]]
+- [[Current Thesis Requirements]]
+- [[Project Hub]]
+
 ## Appendices
 
 - Survey questionnaires

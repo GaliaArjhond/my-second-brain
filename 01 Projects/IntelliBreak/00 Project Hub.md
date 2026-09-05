@@ -76,6 +76,13 @@ Exact database schema and backend architecture are to be determined.
 ## Known Problems
 To be determined
 
+## Related Technology Areas
+- [[Flutter Folder Structure]]
+- [[Authentication]]
+- [[Break System]]
+- [[Tech Stack]]
+- [[UI Design]]
+
 ## Current Focus
 - Build the core IntelliBreak application and UI first
 - Establish the required work/shift and break tracking functionality
@@ -86,5 +93,14 @@ To be determined
 ## Next Steps
 To be determined
 
+## Personal Tracking
+- [[07 Personal/Finance/00 Dashboard.md]] - Thesis Fund tracking
+
 ## Related Notes
 - [[Flutter Folder Structure]]
+- [[Authentication]]
+- [[Break System]]
+- [[Tech Stack]]
+- [[UI Design]]
+- [[Current Thesis Requirements]]
+- [[Focus Rate - Research Notes]]

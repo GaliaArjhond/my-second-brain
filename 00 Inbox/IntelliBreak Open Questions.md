@@ -103,3 +103,12 @@ When an item is resolved:
 - Confirmed project requirements → IntelliBreak project documentation
 
 Keep this note until all questions have been resolved or intentionally closed.
+
+## Related Notes
+- [[Current Thesis Requirements]]
+- [[Tech Stack]]
+- [[Break System]]
+- [[Authentication]]
+- [[UI Design]]
+- [[Project Hub]]
+- [[Focus Rate - Research Notes]]

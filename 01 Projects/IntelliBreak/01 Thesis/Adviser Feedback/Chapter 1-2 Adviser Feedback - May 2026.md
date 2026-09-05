@@ -38,6 +38,12 @@ Do not resolve this conflict.
 
 Record it as requiring confirmation.
 
+## Related Decisions
+- [[Authentication]]
+- [[Break System]]
+- [[Tech Stack]]
+- [[UI Design]]
+
 ## Status
 
 Adviser feedback received.

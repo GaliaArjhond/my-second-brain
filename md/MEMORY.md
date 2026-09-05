@@ -1,0 +1,1 @@
+- [Firebase authentication integration completed](memory/firebase-auth-integration.md) — Added Firebase auth to registration screen with loading states and error handling

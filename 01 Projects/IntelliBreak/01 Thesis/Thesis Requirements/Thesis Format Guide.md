@@ -175,6 +175,11 @@ May include:
 - User manual
 - Screenshots
 
+## Related Notes
+- [[Thesis Chapter Format]]
+- [[Current Thesis Requirements]]
+- [[Project Hub]]
+
 IMPORTANT:
 
 This note is a FORMAT/WRITING GUIDE.

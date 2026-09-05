@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5bcee8e2233c03a",
+        "id": "ac8dac6f69cbb520",
         "type": "tabs",
         "children": [
           {
-            "id": "39e6b763f9ee344b",
+            "id": "fd313ba62b76df81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projects/IntelliBreak/01 Thesis/Thesis Requirements/Thesis Format Guide.md",
+                "file": "04 Knowledge/Cybersecurity/Fundamentals/Cisco Introduction to Cybersecurity/1.2 Organizational Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thesis Format Guide"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3bf5ca92a6b7060b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bd00b44cd22819b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "1.2 Organizational Data"
             }
           }
         ]
@@ -49,6 +33,7 @@
       {
         "id": "6f477bf73f248e7f",
         "type": "tabs",
+        "dimension": 65.53106212424849,
         "children": [
           {
             "id": "22d1815b9676c6c7",
@@ -96,6 +81,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "4175b1f91e15ce26",
+        "type": "tabs",
+        "dimension": 34.46893787575151,
+        "children": [
+          {
+            "id": "bbbd0d3c35a2e7f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,15 +108,26 @@
     "type": "split",
     "children": [
       {
-        "id": "473c823a7b87d591",
+        "id": "1f9cd9a573c65105",
         "type": "tabs",
         "children": [
           {
-            "id": "60e29cdaaf1c0553",
+            "id": "bd00b44cd22819b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8bfdd34287295a98",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Copy of ICONIC Scorecard 2025 - Surveys Raw.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +141,12 @@
             }
           },
           {
-            "id": "f18b4a51fde79f2a",
+            "id": "176f3c05f853cb95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "05 Decisions/IntelliBreak/Tech Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -141,7 +155,7 @@
             }
           },
           {
-            "id": "3953322d9bd7e27b",
+            "id": "81e3427a37068bb0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,7 +170,7 @@
             }
           },
           {
-            "id": "ad7ff9ec3f4b9588",
+            "id": "816b5f2937a3877d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -170,12 +184,12 @@
             }
           },
           {
-            "id": "634fab532cbb2c0c",
+            "id": "79901b14e237d57a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "04 Knowledge/Cybersecurity/Fundamentals/Cisco Introduction to Cybersecurity/1.2 Organizational Data.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,42 +212,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "claude-sidebar:New Claude Code Tab": false
     }
   },
-  "active": "39e6b763f9ee344b",
+  "active": "fd313ba62b76df81",
   "lastOpenFiles": [
-    "01 Projects/IntelliBreak/01 Thesis/Thesis Requirements/Thesis Chapter Format.md",
-    "01 Projects/IntelliBreak/01 Thesis/Thesis Requirements/Thesis Format Guide.md",
-    "CAPSTONE-THESIS-FORMAT-Chapters1-4.md",
-    "CLAUDE.md",
-    "01 Projects/IntelliBreak/00 Project Hub.md",
-    "06 Resources/Documents/Thesis Chapter 1 and 2.md",
-    "06 Resources/Documents/Thesis/CAPSTONE-THESIS-FORMAT-Chapters1-4 (4).docx",
-    "06 Resources/Documents/Thesis",
-    "Pasted image 20260819233516.png",
-    "01 Projects/IntelliBreak/01 Thesis/Thesis Requirements/Current Thesis Requirements.md",
-    "00 Inbox/IntelliBreak Current Questions.md",
-    "01 Projects/IntelliBreak/01 Thesis/Thesis Requirements/Current Thesis Requirements.md.tmp.30924.e76c4e7fb2c0",
-    "01 Projects/IntelliBreak/01 Thesis/Thesis Requirements",
-    "00 Inbox/IntelliBreak Open Questions.md",
-    "01 Projects/IntelliBreak/01 Thesis/Adviser Feedback/Chapter 1-2 Adviser Feedback - May 2026.md",
-    "01 Projects/IntelliBreak/01 Thesis/Adviser Feedback/Chapter 1-2 Adviser Feedback - May 2026.md.tmp.30924.d0557e201eae",
-    "01 Projects/IntelliBreak/01 Thesis/Adviser Feedback/Chapter 1-2 Adviser Feedback - May 2026.md.tmp.30924.aaa681c7f8ac",
-    "01 Projects/IntelliBreak/01 Thesis/Adviser Feedback/Chapter 1-2 Adviser Feedback - May 2026.md.tmp.30924.75a7af56d782",
-    "01 Projects/IntelliBreak/01 Thesis/Adviser Feedback/Chapter 1-2 Adviser Feedback - May 2026.md.tmp.30924.9a37412e91df",
-    "01 Projects/IntelliBreak/01 Thesis/Adviser Feedback/Chapter 1-2 Adviser Feedback - May 2026.md.tmp.30924.6e002ce5d1c3",
-    "00 Inbox/IntelliBreak Open Questions.md.tmp.30924.d4a63b64e95b",
-    "04 Knowledge/Flutter/Flutter Folder Structure.md",
-    "06 Resources/Templates/Decision Template.md",
+    "04 Knowledge/Cybersecurity/Fundamentals/Cisco Introduction to Cybersecurity/1.1 The World of Cybersecurity.md",
+    "04 Knowledge/Cybersecurity/Fundamentals/Cisco Introduction to Cybersecurity/1.2 Organizational Data.md",
+    "01 Projects/IntelliBreak/03 Features/Break Coach Design.md",
     "Untitled.md",
-    "06 Resources/Templates/Project Template.md",
-    "06 Resources/Templates/Research Template.md",
-    "06 Resources/Templates/Knowledge Template.md",
-    "05 Decisions/IntelliBreak/UI Design.md",
-    "05 Decisions/IntelliBreak/Break System.md",
-    "05 Decisions/IntelliBreak/Authentication.md",
-    "05 Decisions/IntelliBreak/Tech Stack.md",
-    "Welcome.md"
+    "04 Knowledge/Cybersecurity/Fundamentals/Cisco Introduction to Cybersecurity",
+    "04 Knowledge/Cybersecurity/Fundamentals/Cisco (Introduction to Cybersecurity).md",
+    "01 Projects/IntelliBreak/07 Testing & QA/Logs/chrome_output3.txt",
+    "Pasted image 20260819233516.png",
+    "01 Projects/IntelliBreak/04 UI UX/README.md",
+    "01 Projects/IntelliBreak/03 Features/Dashboard/DashboardUI.png.md",
+    "01 Projects/IntelliBreak/07 Testing & QA/Logs/chrome_release2.txt",
+    "01 Projects/IntelliBreak/07 Testing & QA/Logs/chrome_release.txt",
+    "01 Projects/IntelliBreak/07 Testing & QA/Logs/chrome_output5.txt",
+    "01 Projects/IntelliBreak/07 Testing & QA/Logs/chrome_output4.txt",
+    "01 Projects/IntelliBreak/07 Testing & QA/Logs/chrome_output2.txt",
+    "01 Projects/IntelliBreak/07 Testing & QA/Logs/chrome_output.txt",
+    "01 Projects/IntelliBreak/07 Testing & QA/Logs/android_release.txt",
+    "01 Projects/IntelliBreak/03 Features/Team View.md",
+    "01 Projects/IntelliBreak/04 UI UX/Inspo.md",
+    "01 Projects/IntelliBreak/04 UI UX/Dashboard.md",
+    "01 Projects/IntelliBreak/03 Features/Dashboard/MOBILE_UI_FIXES_SUMMARY.md",
+    "01 Projects/IntelliBreak/03 Features/Authentication/IMPLEMENTATION_SUMMARY.md",
+    "01 Projects/IntelliBreak/03 Features/Authentication/FIX_SUMMARY.md",
+    "01 Projects/IntelliBreak/03 Features/Analytics/FINAL_REPORT.md",
+    "01 Projects/IntelliBreak/03 Features/Analytics/ANALYTICS_IMPLEMENTATION_SUMMARY.md",
+    "01 Projects/IntelliBreak/03 Features/Analytics/ANALYTICS_UPDATE_SUMMARY.md",
+    "01 Projects/IntelliBreak/01 Thesis/ML Recommendation Methodology.md",
+    "01 Projects/IntelliBreak/01 Thesis/THESIS_READINESS_AUDIT.md",
+    "01 Projects/IntelliBreak/01 Thesis/WORK_TASKS_REVIEW_SUMMARY.md",
+    "01 Projects/IntelliBreak/01 Thesis/Adviser Feedback - Chapter 1-2 Adviser Feedback - May 2026.md",
+    "CLAUDE.md",
+    "01 Projects/IntelliBreak/00 Project Hub/2026-09-02.md",
+    "06 Resources/Documents/ICONIC Scorecard/Copy of ICONIC Scorecard 2025.xlsx",
+    "01 Projects/IntelliBreak/00 Project Hub/PROJECT_STATUS.md",
+    "01 Projects/IntelliBreak/07 Testing & QA/SHELL_REFACTOR_REPORT.md",
+    "01 Projects/IntelliBreak/07 Testing & QA/ANALYTICS_FIXES_SUMMARY.md",
+    "01 Projects/IntelliBreak/07 Testing & QA/P1_PERMISSIONS_REPORT.md",
+    "01 Projects/IntelliBreak/UI UX/DashboardUI.png"
   ]
 }

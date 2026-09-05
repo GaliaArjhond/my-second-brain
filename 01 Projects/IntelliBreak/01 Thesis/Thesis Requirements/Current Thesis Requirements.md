@@ -57,3 +57,12 @@
 
 ## Source
 06 Resources/Documents/Thesis Chapter 1 and 2.md
+
+## Related Notes
+- [[Project Hub]]
+- [[Authentication]]
+- [[Break System]]
+- [[Tech Stack]]
+- [[UI Design]]
+- [[Adviser Feedback - Chapter 1-2 Adviser Feedback - May 2026]]
+- [[Focus Rate - Research Notes]]

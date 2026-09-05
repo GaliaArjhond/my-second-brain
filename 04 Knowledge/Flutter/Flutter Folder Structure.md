@@ -23,3 +23,10 @@ Avoid putting every widget and screen into one huge folder
 ## Related Notes
 - [[Flutter State Management]]
 - [[IntelliBreak]]
+- [[Learn Dart]]
+
+## Related How-To Notes
+- [[IntelliBreak]] - Practical Flutter application
+
+## Related Problems/Fixes
+- [[IntelliBreak]] - State management challenges in Flutter apps

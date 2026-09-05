@@ -47,28 +47,53 @@ When asked to organize notes:
 ## Note Types
 
 ### project
+
 - Purpose: Track active projects with goals, tasks, and outcomes.
 - Where it normally belongs: 01 Projects
 - Required frontmatter: type, status, startDate
 - When NOT to create: For ongoing responsibilities that aren't time-bound, or for reference material.
 
 ### knowledge
+
 - Purpose: Capture stable, reusable information such as concepts, facts, or how-to guides.
 - Where it normally belongs: 04 Knowledge
 - Required frontmatter: type, tags
 - When NOT to create: For time-specific notes, raw research, or personal notes that aren't generally applicable.
 
 ### research
+
 - Purpose: Record literature reviews, experiment notes, or investigation findings.
 - Where it normally belongs: 03 Research
 - Required frontmatter: type, source, date
 - When NOT to create: For finalized knowledge that belongs in Knowledge, or for project-specific tasks.
 
 ### decision
+
 - Purpose: Document important choices, their rationale, and alternatives.
 - Where it normally belongs: 05 Decisions
 - Required frontmatter: type, date, outcome
 - When NOT to create: For minor choices, temporary preferences, or notes that don't have lasting impact.
+
+### Obsidian Documentation Rules
+
+When making thesis-related changes:
+
+1. Read relevant Obsidian notes before changing requirements or decisions.
+2. Use existing notes whenever possible.
+3. Add [[wikilinks]] only when they represent meaningful semantic relationships.
+4. Do not add links merely to increase Graph View connectivity.
+5. Prefer these relationships:
+   - Research → Requirements
+   - Adviser Feedback → Decisions
+   - Requirements → Decisions
+   - Decisions → Implementation
+   - Learning → Implementation
+   - Problems/Fixes → Technologies or features
+6. Keep hub notes as navigation points rather than dumping all information into them.
+7. Do not modify unrelated notes.
+8. Do not invent facts, requirements, decisions, or relationships.
+9. When a significant relationship is discovered, update the appropriate note with a [[wikilink]].
+10. Before finishing a documentation task, check whether the new information should connect to an existing note.
 
 ## Important
 
